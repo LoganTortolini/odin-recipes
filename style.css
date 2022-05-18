@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+}
+
+.ingredients,
+.steps {
+    text-align: left;
+}
+
+.example {
+    height:auto;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
